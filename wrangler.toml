@@ -38,7 +38,7 @@ routes = [
   { pattern = "cdnjs.cloudflare.com.siren.afrcloud.site", custom_domain = true },
   { pattern = "collection.linefriends.com.siren.afrcloud.site", custom_domain = true },
   { pattern = "creativeservices.netflix.com.siren.afrcloud.site", custom_domain = true },
-  { pattern = "customlinks.appsflyer.com.siren.afrcloud.site", custom_domain = a= true },
+  { pattern = "customlinks.appsflyer.com.siren.afrcloud.site", custom_domain = true },
   { pattern = "dashboard.midtrans.com.siren.afrcloud.site", custom_domain = true },
   { pattern = "dev.appsflyer.com.siren.afrcloud.site", custom_domain = true },
   { pattern = "developer.twitter.com.siren.afrcloud.site", custom_domain = true },
