@@ -25,9 +25,9 @@ FOOLVPN-ID [SIREN](https://github.com/FoolVPN-ID/Siren)
 
 Wajib Edit 
 
-- https://github.com/AFRcloud/afrcloud-site/blob/2abdcbac17d3ae25520cc04d980a7f430f702569/src/lib.rs#L18
-- https://github.com/AFRcloud/afrcloud-site/blob/2abdcbac17d3ae25520cc04d980a7f430f702569/src/lib.rs#L60
-- https://github.com/AFRcloud/afrcloud-site/blob/2abdcbac17d3ae25520cc04d980a7f430f702569/wrangler.toml#L7C1-L97C1
-- https://github.com/AFRcloud/afrcloud-site/blob/2abdcbac17d3ae25520cc04d980a7f430f702569/wrangler.toml#L99
-- https://github.com/AFRcloud/afrcloud-site/blob/2abdcbac17d3ae25520cc04d980a7f430f702569/wrangler.toml#L108
-- https://github.com/AFRcloud/afrcloud-site/blob/2abdcbac17d3ae25520cc04d980a7f430f702569/wrangler.toml#L109-L112
+- LIB.RS [lib.rs](https://github.com/AFRcloud/afrcloud-site/blob/2abdcbac17d3ae25520cc04d980a7f430f702569/src/lib.rs#L18)
+- LIB.RS [lib.rs](https://github.com/AFRcloud/afrcloud-site/blob/2abdcbac17d3ae25520cc04d980a7f430f702569/src/lib.rs#L60)
+- WRANGLER.TOML [wrangler.toml](https://github.com/AFRcloud/afrcloud-site/blob/2abdcbac17d3ae25520cc04d980a7f430f702569/wrangler.toml#L7C1-L97C1)
+- WRANGLER.TOML [wrangler.toml](https://github.com/AFRcloud/afrcloud-site/blob/2abdcbac17d3ae25520cc04d980a7f430f702569/wrangler.toml#L99)
+- WRANGLER.TOML [wrangler.toml](https://github.com/AFRcloud/afrcloud-site/blob/2abdcbac17d3ae25520cc04d980a7f430f702569/wrangler.toml#L108)
+- WRANGLER.TOML [wrangler.toml](https://github.com/AFRcloud/afrcloud-site/blob/2abdcbac17d3ae25520cc04d980a7f430f702569/wrangler.toml#L109-L112)
